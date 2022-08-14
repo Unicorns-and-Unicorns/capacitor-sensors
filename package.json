@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "Sensors.podspec"
+    "CapacitorSensors.podspec"
   ],
   "author": "Unicorns & Unicorns",
   "license": "MIT",
